@@ -1,5 +1,4 @@
-""" Fucked By Ahmed-XD 
-     Good Bye """
+#FUCKED BY : @Ahmed-XD [XNX]
 ## Admin Crazy 404
 ## Create by Fb king
 import requests,bs4,json,os,sys,random,datetime,time,re,string
